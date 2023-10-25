@@ -20,8 +20,8 @@ J'ai été militaire, de spécialité informatique dans la Marine Nationale pend
 J'ai eu l'opportunité d'acquérir de nombreuses connaissances :
 - administrateur de parc informatique (Windows et Linux)
 - administrateur de base de données (Sybase)
-- conception, installation et maintenance d'un site web opérationnel (html, js, php, java)
-- développeur SA
+- reccueil du besoin, conception, installation et maintenance d'un site web opérationnel (html,css, js, php, java)
+- développeur SAP
 
 ### Diplômes
 
